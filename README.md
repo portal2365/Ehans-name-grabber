@@ -1,2 +1,2 @@
-# Ehans-name-grabber
-Submit a username and nothing will happen!!!!!!!!
+# synchronousBallMovement
+Ball moving synchronously
